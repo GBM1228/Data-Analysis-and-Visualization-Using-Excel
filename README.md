@@ -5,6 +5,8 @@
 The purpose of this project is to explore and understand the career aspirations of Generation Z (GenZ). The core problem revolves around GenZ individuals struggling to pursue their desired roles, with their aspirations often going unheard by employers. Furthermore, employers face significant challenges in attracting, retaining, and effectively managing Gen Z employees.
 In this project, India Gen z's response data was used as a case study, analysed and visulized with Excel.
 
+#
+
 ## Table Of Contents
 
 [Data Sourcing](#DataSourcing)
@@ -15,11 +17,15 @@ In this project, India Gen z's response data was used as a case study, analysed 
 
 [Data Visualization](#DataVisualization)
 
+#
+
 ## Data Sourcing
 
 The dataset used for this Project was given by [KultureHire](https://kulturehire.com/?msg=not-logged-in)
 
  [Dataset](https://github.com/user-attachments/files/17029481/Your_Career_Aspirations_.Responses.1.xlsx)
+
+ #
 
  ## Data Preparation
  
@@ -36,6 +42,8 @@ The following steps were taken for data cleaning and standardization:
 
 The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
 
+#
+
 ## Data Analysis
 To uncover meaningful insights from the Gen Z career aspiration data, pivot tables were employed, enabling the analysis to effectively answer key business questions.
 
@@ -43,6 +51,8 @@ To uncover meaningful insights from the Gen Z career aspiration data, pivot tabl
 
 
 [View the complete analysis here](https://1drv.ms/x/c/66511227b5cea30a/EYJOr3rXaZZLpPr3r6jE6OsB265-dbDDQ57mw_Q8RWCipw?e=gQSz6k)
+
+#
 
 ## Data Visualization
 
@@ -64,6 +74,8 @@ To gain a deeper understanding of Gen Z career aspirations, four comprehensive d
 
 <img width="934" alt="Gen Z Career Aspiration" src="https://github.com/user-attachments/assets/9d5cab35-6e7d-43e6-aecf-70a7390b2c95">
 
+#
+
 #### Second Dashboard (Gen Z Learning Aspiration) visulized the:
 
 * Total Respondents
@@ -78,6 +90,8 @@ To gain a deeper understanding of Gen Z career aspirations, four comprehensive d
 * Deal breaker company
 
 <img width="939" alt="Learning Aspiration" src="https://github.com/user-attachments/assets/81c21417-e7e0-4504-a664-61290c971d03">
+
+#
 
 #### Third Dashboard (Gen Z Mission ) visulized the:
 
@@ -95,6 +109,8 @@ To gain a deeper understanding of Gen Z career aspirations, four comprehensive d
 * Purpose over Paycheck by Gender
 
 <img width="935" alt="Mission Insight" src="https://github.com/user-attachments/assets/d2efea2c-c32c-458a-baad-6b139a260fc7">
+
+#
 
 #### fourth Dashboard (Gen Z Aspiration Manager ) visulized the:
 
