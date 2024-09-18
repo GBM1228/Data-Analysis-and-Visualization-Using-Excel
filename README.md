@@ -3,7 +3,7 @@
 ## About This Project
 
 The purpose of this project is to explore and understand the career aspirations of Generation Z (GenZ). The core problem revolves around GenZ individuals struggling to pursue their desired roles, with their aspirations often going unheard by employers. Furthermore, employers face significant challenges in attracting, retaining, and effectively managing Gen Z employees.
-In this project, India Gen z's response data was used as a case study, analysed and visulized with Excel.
+In this project, India Gen z's response data was filtered and used as a case study, analysed and visulized with Excel.
 
 #
 
