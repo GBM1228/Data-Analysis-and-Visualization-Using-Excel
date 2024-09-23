@@ -1,4 +1,4 @@
-# KultureHire  60-day Data Analysis With Excel Virtual Internship-Gen Z Career Aspiration
+# KultureHire  60-day Data Analysis With Excel Virtual Internship-understand the Career Aspirations of Generation Z (Gen Z)
 
 ## About This Project
 
