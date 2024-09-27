@@ -72,7 +72,8 @@ To gain a deeper understanding of Gen Z career aspirations, four comprehensive d
 * Organization Adrift
 * minmum Expected Salary
 
-<img width="934" alt="Gen Z Career Aspiration" src="https://github.com/user-attachments/assets/9d5cab35-6e7d-43e6-aecf-70a7390b2c95">
+<img width="930" alt="Gen Z career Aspiration" src="https://github.com/user-attachments/assets/8ef0b646-a300-4b88-a114-e7b0be7c1bb5">
+
 
 #
 
