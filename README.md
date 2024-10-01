@@ -132,4 +132,5 @@ To gain a deeper understanding of Gen Z career aspirations, four comprehensive d
 
 understanding the Career Aspiration of Gen Z Project Presentation.
 
-[Kindly view the Presentation  here]
+[Kindly view the Presentation  here](https:[UNDERSTANDING THE CAREER ASPIRATION OF GEN Z PRESENTATION.pptx](https://github.com/user-attachments/files/17202031/UNDERSTANDING.THE.CAREER.ASPIRATION.OF.GEN.Z.PRESENTATION.pptx)
+
