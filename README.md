@@ -131,5 +131,5 @@ To gain a deeper understanding of Gen Z career aspirations, four comprehensive d
   <img width="937" alt="Manager Insight" src="https://github.com/user-attachments/assets/aa74d1b9-da5f-4232-b672-e92151547361">
 
 
-Kindly view the Presentation  here[UNDERSTANDING THE CAREER ASPIRATION OF GEN Z PRESENTATION.pptx](https://github.com/user-attachments/files/17202031/UNDERSTANDING.THE.CAREER.ASPIRATION.OF.GEN.Z.PRESENTATION.pptx)
+Kindly view the project presentation here [UNDERSTANDING THE CAREER ASPIRATION OF GEN Z PRESENTATION.pptx](https://github.com/user-attachments/files/17202031/UNDERSTANDING.THE.CAREER.ASPIRATION.OF.GEN.Z.PRESENTATION.pptx)
 
