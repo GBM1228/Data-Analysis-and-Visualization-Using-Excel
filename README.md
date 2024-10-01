@@ -40,7 +40,9 @@ The following steps were taken for data cleaning and standardization:
 *  Formatted the data into a table structure.
 * Converted data types to ensure consistency
 
-The Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
+The Gen Z Career Aspiration dataset has 28 columns and 124,384 rows.
+![image](https://github.com/user-attachments/assets/60b826b9-99ee-4301-9930-1edc9988c9a4)
+
 
 #
 
